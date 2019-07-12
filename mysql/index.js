@@ -2,7 +2,7 @@ const mysql = require('mysql')
 // const pool = mysql.createPool({
 //     host: '172.19.234.200',
 //     user: 'root',
-//     password: 'Root123@',
+//     password: '',
 //     database: 'todolist_demo'
 // });
 const pool = mysql.createPool({
