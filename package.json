@@ -7,7 +7,7 @@
     "prd": "pm2 start bin/www"
   },
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "core-js": "^2.6.5",
     "dateformat": "^3.0.3",
     "debug": "^2.6.3",
